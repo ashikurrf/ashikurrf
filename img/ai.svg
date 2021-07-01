@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="67" viewBox="0 0 65 67">
+  <g id="Group_1" data-name="Group 1" transform="translate(-65 -61)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(65 63)" fill="#5d1010" stroke="#ffa200" stroke-width="2">
+      <rect width="65" height="65" rx="13" stroke="none"/>
+      <rect x="1" y="1" width="63" height="63" rx="12" fill="none"/>
+    </g>
+    <text id="Ai" transform="translate(78 110)" fill="#ffa200" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Ai</tspan></text>
+  </g>
+</svg>
